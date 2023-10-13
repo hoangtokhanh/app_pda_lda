@@ -1,0 +1,9 @@
+{
+  "APP_NAME" : "WEB CBA SMARTLOOK",
+
+  "API_URL" : "http://dev.smartlook.com.vn:59062",
+  "API_URL1" : "http://113.161.79.142:60002",
+  "URL_IMAGE": "/FileControlller/image/",
+  "build_template": "smartlook",
+  "version": "1.0.0.25082023"
+}
